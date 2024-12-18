@@ -1,7 +1,7 @@
 # **Build your portfolio with Once UI's Magic Portfolio**
 # **Build your portfolio with nextjs
 
-Sourabh Biswas devops portfolio web app written in next js.
+Sourabh Biswas devops portfolio responsive web app written in next js.
 
 Webiste Url: - sourabhbiswasdevops.cloud
 
